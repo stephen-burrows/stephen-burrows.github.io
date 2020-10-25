@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Burrows Github Pages</title>
+    <link>https://stephen-burrows.github.io/</link>
+    <description>Recent content on Stephen Burrows Github Pages</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Oct 2020 17:16:56 +0100</lastBuildDate><atom:link href="https://stephen-burrows.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Representing a Helm chart as a class in Powershell</title>
+      <link>https://stephen-burrows.github.io/posts/helm-class/</link>
+      <pubDate>Sun, 25 Oct 2020 17:16:56 +0100</pubDate>
+      
+      <guid>https://stephen-burrows.github.io/posts/helm-class/</guid>
+      <description>A Helm Chart is a collection of files inside a directory. At a minimum, the collection should include a chart.yaml and values.yaml file. These two files define the behaviour of the chart and should be in the root of the directory. To indicate a particular chart, all we need is the path to the directory ($path).
+The helm cli will check that the files are formatted to its specifications but there are likely to also be business requirements for your Helm charts which need to be checked in your deployment pipeline.</description>
+    </item>
+    
+  </channel>
+</rss>
