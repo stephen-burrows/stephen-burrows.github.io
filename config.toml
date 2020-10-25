@@ -1,0 +1,4 @@
+baseURL = "https://stephen-burrows.github.io"
+languageCode = "en-us"
+title = "Stephen Burrows Github Pages"
+theme = "ananke"
